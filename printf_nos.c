@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@alyakbar 
-Joseph-Gicuguma
-/
-printf
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-printf/print_nos.c
-@InnocentWahome
-InnocentWahome add prototype
-Latest commit 20997a7 4 days ago
- History
- 1 contributor
-79 lines (75 sloc)  1.08 KB
-
 #include "main.h"
 
 /**
@@ -105,18 +77,3 @@ int print_d(va_list d)
 	}
 	return (count);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
